@@ -12,3 +12,6 @@ div{
     background-color: lavender;
     border: 2px black solid;
 }
+static-box{
+    position: static;
+}
