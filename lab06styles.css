@@ -26,3 +26,8 @@ div{
     top: 10px;
     right: 15px
 }
+.fixed-box{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
