@@ -35,3 +35,12 @@ div{
     position: sticky;
     top: 0px;
 }
+.background-image{
+    background-image: url(becf2a_86ee5891bf7048989f9150182a814783~mvgoldenpuppies.jpeg);
+    background-size: cover;
+    
+}
+.background-repeat{
+    background-image: url(becf2a_86ee5891bf7048989f9150182a814783~mvgoldenpuppies.jpeg);
+    background-repeat: repeat-x repeat-y;
+}
