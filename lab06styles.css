@@ -6,6 +6,9 @@ nav{
     background-color: pink;
     padding: 10px;
 }
-#static-box{
-    position: static;
+div{
+    height: 100px;
+    width: 100px;
+    background-color: lavender;
+    border: 2px black solid;
 }
