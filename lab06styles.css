@@ -90,4 +90,9 @@ div{
     align-content: space-around;
     height: 60px;
 }
+#flex-grow{
+    display: flex;
+    flex-grow: 2px;
+}
+
 
